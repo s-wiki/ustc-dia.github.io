@@ -1,11 +1,11 @@
 # Site settings
-title: CS231n Convolutional Neural Networks for Visual Recognition
-email: karpathy@cs.stanford.edu
-description: "Course materials and notes for Stanford class CS231n: Convolutional Neural Networks for Visual Recognition."
+title: 数字图像分析
+email: wangyf11@mail.ustc.edu.cn
+description: "Course materials and notes for USTC DIA(Digital Image Analysis) class."
 baseurl: ""
-url: "http://cs231n.github.io"
-twitter_username: cs231n
-github_username:  cs231n
+url: "http://ustc-dia.github.io"
+twitter_username: ustcdia
+github_username:  ustc-dia
 
 # Build settings
 markdown: kramdown
