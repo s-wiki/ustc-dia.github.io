@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # 数字图像分析实验讲义之一——Python开发环境配置
 
 *如果有任何错误，疑问或者建议，请随时联系助教：王云峰（wangyf11@mail.ustc.edu.cn），蒲俊福（pjh@mail.ustc.edu.cn)。*
